@@ -1,0 +1,4 @@
+com\mycompany\myinnovativeshopping\impl\HelloServiceImpl.class
+com\mycompany\myinnovativeshopping\package-info.class
+com\mycompany\myinnovativeshopping\impl\filters\LoggingFilter.class
+com\mycompany\myinnovativeshopping\HelloService.class
