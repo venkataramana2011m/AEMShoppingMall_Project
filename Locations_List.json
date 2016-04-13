@@ -1,0 +1,30 @@
+{"originList":[{
+        "value": "Amsterdam, Schiphol Airport (AMS)",
+        "label": "Amsterdam, Schiphol Airport (AMS),",
+        "country": "Netherlands"
+    }, {
+        "value": "Athens, Eleftherios Venizelos Airport (ATH)",
+        "label": "Athens, Eleftherios Venizelos Airport (ATH),",
+        "country": "Greece"
+    }, {
+        "value": "Berlin, Tegel Airport (TXL)",
+        "label": "Berlin, Tegel Airport (TXL),",
+        "country": "Germany"
+    }, {
+        "value": "Bangkok, Suvarnabhumi Airport (BKK)",
+        "label": "Bangkok, Suvarnabhumi Airport (BKK),",
+        "country": "Thailand"
+    }, {
+        "value": "Cape Town, Cape Town Airport (CPT)",
+        "label": "Cape Town, Cape Town Airport (CPT),",
+        "country": "South Africa"
+    }, {
+        "value": "Frankfurt, Frankfurt Airport (FRA)",
+        "label": "Frankfurt, Frankfurt Airport (FRA),",
+        "country": "Germany"
+    }, {
+        "value": "Geneva, Geneva Airport (GVA)",
+        "label": "Geneva, Geneva Airport (GVA),",
+        "country": "Switzerland"
+    }]
+} 
